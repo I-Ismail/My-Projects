@@ -1,2 +1,1 @@
 # My-Projects
-print("hello")
